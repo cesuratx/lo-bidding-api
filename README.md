@@ -1,5 +1,5 @@
 # lo-bidding-api
-This is an api which exposes methods to create auction, make a bid and determine/get the winner.
+This is an api which exposes methods to create auction, make a bid and determine/get the winner. All bids should be done using cents.
 
 ##TECH STACK:
     Java 17
