@@ -3,7 +3,7 @@ package com.lookout.auction;
 import lombok.Data;
 
 @Data
-class Bidder {
+public class Bidder {
     private final int id;
     private final String name;
 }
