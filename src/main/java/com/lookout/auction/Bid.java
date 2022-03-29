@@ -8,7 +8,7 @@ import java.time.Instant;
 @Setter
 @ToString
 @RequiredArgsConstructor
-class Bid {
+public class Bid {
     private final Bidder bidder;
     private final Instant bidTime;
     private final int startingBid;
